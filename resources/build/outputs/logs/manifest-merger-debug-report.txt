@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/giuseppe/Downloads/Project Android/Luna/resources/src/main/AndroidManifest.xml:1:1-72
+INJECTED from /Users/giuseppe/Downloads/Project Android/Luna/resources/src/main/AndroidManifest.xml:1:1-72
+INJECTED from /Users/giuseppe/Downloads/Project Android/Luna/resources/src/main/AndroidManifest.xml:1:1-72
+INJECTED from /Users/giuseppe/Downloads/Project Android/Luna/resources/src/main/AndroidManifest.xml:1:1-72
+INJECTED from /Users/giuseppe/Downloads/Project Android/Luna/resources/src/main/AndroidManifest.xml:1:1-72
+INJECTED from /Users/giuseppe/Downloads/Project Android/Luna/resources/src/main/AndroidManifest.xml:1:1-72
+INJECTED from /Users/giuseppe/Downloads/Project Android/Luna/resources/src/main/AndroidManifest.xml:1:1-72
+	package
+		ADDED from /Users/giuseppe/Downloads/Project Android/Luna/resources/src/main/AndroidManifest.xml:1:11-69
+		INJECTED from /Users/giuseppe/Downloads/Project Android/Luna/resources/src/main/AndroidManifest.xml
+		INJECTED from /Users/giuseppe/Downloads/Project Android/Luna/resources/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/giuseppe/Downloads/Project Android/Luna/resources/src/main/AndroidManifest.xml
+		ADDED from /Users/giuseppe/Downloads/Project Android/Luna/resources/src/main/AndroidManifest.xml:1:1-72
+		INJECTED from /Users/giuseppe/Downloads/Project Android/Luna/resources/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/giuseppe/Downloads/Project Android/Luna/resources/src/main/AndroidManifest.xml:1:1-72
+	android:versionCode
+		INJECTED from /Users/giuseppe/Downloads/Project Android/Luna/resources/src/main/AndroidManifest.xml
+		ADDED from /Users/giuseppe/Downloads/Project Android/Luna/resources/src/main/AndroidManifest.xml:1:1-72
+		INJECTED from /Users/giuseppe/Downloads/Project Android/Luna/resources/src/main/AndroidManifest.xml
+uses-sdk
+INJECTED from /Users/giuseppe/Downloads/Project Android/Luna/resources/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/giuseppe/Downloads/Project Android/Luna/resources/src/main/AndroidManifest.xml
+INJECTED from /Users/giuseppe/Downloads/Project Android/Luna/resources/src/main/AndroidManifest.xml
+INJECTED from /Users/giuseppe/Downloads/Project Android/Luna/resources/src/main/AndroidManifest.xml
+INJECTED from /Users/giuseppe/Downloads/Project Android/Luna/resources/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/giuseppe/Downloads/Project Android/Luna/resources/src/main/AndroidManifest.xml
+		ADDED from /Users/giuseppe/Downloads/Project Android/Luna/resources/src/main/AndroidManifest.xml
+		INJECTED from /Users/giuseppe/Downloads/Project Android/Luna/resources/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/giuseppe/Downloads/Project Android/Luna/resources/src/main/AndroidManifest.xml
+		ADDED from /Users/giuseppe/Downloads/Project Android/Luna/resources/src/main/AndroidManifest.xml
+		INJECTED from /Users/giuseppe/Downloads/Project Android/Luna/resources/src/main/AndroidManifest.xml
